@@ -3,23 +3,27 @@
 *{
 	font-family: Georgia, serif}
 
-h1{
-	text-transform: uppercase;}
-
 figcaption {
 	color: gray;}
 
+h1{
+	text-transform: uppercase;}
 
-	.blue-text{
+figure{
+	max-width: 600px;}
+
+img{
+	max-width:100%;}
+
+
+.blue-text{
 		color:blue;}
 
-	.red-text{
+.red-text{
 		color:red;}
 
 
-footer {
+h6 {
 	color: gray;}
-
-
 
 
