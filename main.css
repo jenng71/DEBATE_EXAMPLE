@@ -1,0 +1,25 @@
+/* This is a CSS file */
+
+*{
+	font-family: Georgia, serif}
+
+h1{
+	text-transform: uppercase;}
+
+figcaption {
+	color: gray;}
+
+
+	.blue-text{
+		color:blue;}
+
+	.red-text{
+		color:red;}
+
+
+footer {
+	color: gray;}
+
+
+
+
